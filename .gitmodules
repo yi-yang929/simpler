@@ -1,0 +1,3 @@
+[submodule "ManiSkill2_real2sim"]
+	path = ManiSkill2_real2sim
+	url = https://github.com/yi-yang929/ManiSkill2_real2sim.git
